@@ -1,0 +1,10 @@
+{
+  "description": "This streaming platform offers a user-friendly interface with a dark theme, allowing users to easily browse and enjoy a wide range of content.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

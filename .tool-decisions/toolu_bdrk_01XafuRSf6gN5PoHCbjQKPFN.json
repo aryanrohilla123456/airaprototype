@@ -1,0 +1,1 @@
+{"hookSpecificOutput":{"hookEventName":"PreToolUse","permissionDecision":"deny","permissionDecisionReason":"The user decided to cancel this search","additionalContext":"The user has cancelled the web search. Do not resubmit it. Continue if it makes sense to do so, otherwise stop the conversation."}}
