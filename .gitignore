@@ -18,3 +18,14 @@ logs/
 # beside it.
 /.plugins/
 /.opencode-skills/
+ 
+# Ensure essential source files are not ignored (make repo contents visible)
+!/.gitignore
+!/index.html
+!/package.json
+!/package-lock.json
+!/pnpm-lock.yaml
+!/tsconfig.json
+!/vite.config.ts
+!/src/
+!/src/**
